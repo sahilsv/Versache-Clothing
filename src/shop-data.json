@@ -1,0 +1,57 @@
+[
+    {
+      "id": 1,
+      "name": "Mercedes Baseball Cap",
+      "imageUrl": "https://assets.ajio.com/medias/sys_master/root/20210204/tE1M/601c0e21aeb26969815cec71/-1117Wx1400H-460835359-black-MODEL3.jpg",
+      "price": 25
+    },
+    {
+      "id": 2,
+      "name": "Adidas Black Beanie",
+      "imageUrl": "https://assets.adidas.com/images/w_600,f_auto,q_auto/f1b5d6c6da444b97bce9aa250100578a_9366/Adicolor_Cuff_Beanie_Black_ED8712_01_standard.jpg",
+      "price": 18
+    },
+    {
+      "id": 3,
+      "name": "M&S Cowboy Hat",
+      "imageUrl": "https://www.stampede.ca/wp-content/uploads/amarillosky-1.jpg",
+      "price": 35
+    },
+    {
+      "id": 4,
+      "name": "Wildcraft Black Brim",
+      "imageUrl": "https://m.media-amazon.com/images/I/51ljVSd5z9L._UX679_.jpg",
+      "price": 25
+    },
+    {
+      "id": 5,
+      "name": "Puma Green Beanie",
+      "imageUrl": "https://assets.ajio.com/medias/sys_master/root/20201020/bkgk/5f8eff65aeb269d563e6d0c1/-473Wx593H-460726360-green-MODEL.jpg",
+      "price": 18
+    },
+    {
+      "id": 6,
+      "name": "Nike Slouchy Beanie",
+      "imageUrl": "https://m.media-amazon.com/images/I/81i4reEY5GL._UX569_.jpg",
+      "price": 14
+    },
+    {
+      "id": 7,
+      "name": "Nike Red Beanie",
+      "imageUrl": "https://assets.ajio.com/medias/sys_master/root/hd0/hdb/13238597124126/-1117Wx1400H-460365641-red-MODEL.jpg",
+      "price": 18
+    },
+    {
+      "id": 8,
+      "name": "House Stark Sigil Cap",
+      "imageUrl": "https://m.media-amazon.com/images/I/61uovDnb3LL._UX569_.jpg",
+      "price": 14
+    },
+    {
+      "id": 9,
+      "name": "NY Blue Snapback",
+      "imageUrl": "https://www.ubuy.co.in/productimg/?image=aHR0cHM6Ly9pbWFnZXMtbmEuc3NsLWltYWdlcy1hbWF6b24uY29tL2ltYWdlcy9JLzUxYnhwQkNHJTJCWkwuX1NTNDAwXy5qcGc.jpg",
+      "price": 16
+    }
+  ]
+  
