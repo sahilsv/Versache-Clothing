@@ -1,4 +1,4 @@
-# Getting Started with Monster's Rolodex project
+# Getting Started with Versache Clothing project
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
