@@ -38,6 +38,3 @@ export const CartItems = styled.div`
   overflow: scroll;
 `;
 
-// .cart-dropdown-container {
-
-//   }

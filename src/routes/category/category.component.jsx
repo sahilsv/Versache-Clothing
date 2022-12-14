@@ -3,7 +3,7 @@ import { useContext, useState, useEffect, Fragment } from "react";
 
 import ProductCard from "../../components/product-card/product-card.component";
 import { CategoriesContext } from "../../contexts/categories.context";
-import "./category.styles.scss";
+import {CategoryContainer, Title} from "./category.styles";
 
 const Category = () => {
   // to get category, i.e, jackets, hats etc using useParams()
@@ -21,13 +21,13 @@ const Category = () => {
 
   return (
     <Fragment>
-      <h2 className="category-title">{category.toLocaleUpperCase()}</h2>
-      <div className="category-container">
+      <Title>{category.toLocaleUpperCase()}</Title>
+      <CategoryContainer>
         {products &&
           products.map((product) => (
             <ProductCard key={product.id} product={product} />
           ))}
-      </div>
+      </CategoryContainer>
     </Fragment>
   );
 };
