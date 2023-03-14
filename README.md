@@ -1,5 +1,6 @@
 # Getting Started with Versache Clothing project
 
+This project is deployed at https://jocular-kitsune-ea1fd9.netlify.app
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
